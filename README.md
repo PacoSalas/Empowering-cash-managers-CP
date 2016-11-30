@@ -1,2 +1,2 @@
 # Empowering-cash-managers-through-Compromise-Programming
-Python code for the examples in Empowering cash managers through compromise programming.
+Python code for the examples in the chapter Empowering cash managers through compromise programming to be published in...
